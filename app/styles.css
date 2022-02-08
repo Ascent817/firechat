@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    margin: 0px;
+    height: calc(97vh - 50px);
+}
+
+.send-button {
+    height: 50px;
+    width: 100px;
+    background-color: royalblue;
+    border-radius: 3px;
+    border: none;
+    color: white;
+}
